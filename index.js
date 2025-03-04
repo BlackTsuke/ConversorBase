@@ -65,4 +65,4 @@ function baseConverter(decNumber,base){
   return baseString;
 }
 
-console.log(baseConverter(100,2))
+console.log(baseConverter(/*decimal,*//*base*/))
